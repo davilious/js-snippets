@@ -1,3 +1,9 @@
+// REDUCE
+// ------
+// 1) always pass an intial value for the reducer
+// 2) always return the accumulator
+//
+
 var votes = [
   "react",
   "react",
